@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/75246059/create-a-postgres-database-within-a-docker-compose-yml-file
+https://biomejs.dev/guides/getting-started/
+https://typeorm.io/
+https://tanstack.com/router/latest
+https://zod.dev/
+https://tanstack.com/query/latest
