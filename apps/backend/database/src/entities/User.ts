@@ -2,17 +2,23 @@ import { Entity, PrimaryGeneratedColumn, Column } from "typeorm"
 
 @Entity()
 export class User {
-
     @PrimaryGeneratedColumn()
     id: number
 
     @Column()
-    firstName: string
+    name: string
 
     @Column()
-    lastName: string
+    email: string
 
     @Column()
-    age: number
+    role: UserRole
 
+    @Column()
+    avatarUrl: string
+}
+
+export enum UserRole {
+    RENTER,
+    HOST
 }

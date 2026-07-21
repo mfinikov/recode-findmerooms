@@ -4,3 +4,9 @@ https://typeorm.io/
 https://tanstack.com/router/latest
 https://zod.dev/
 https://tanstack.com/query/latest
+https://www.dotenv.org/docs/frameworks/nestjs/heroku
+https://stackoverflow.com/questions/71691055/get-list-of-all-exported-components-in-file
+https://docs.nestjs.com/exception-filters
+https://dev.to/nurulislamrimon/creating-a-global-exception-filter-in-nestjs-for-robust-error-handling-4a3n
+https://bhargavacharyb.medium.com/nestjs-11-implementing-a-global-exception-filter-in-nestjs-4c7f90053c2e
+https://blog.stackademic.com/standardizing-api-responses-in-nestjs-with-interceptors-and-exception-filters-cf65efd27d04
